@@ -1,4 +1,11 @@
-### Hi there 👋
+### DentaCH
+hello im Denta, 14yo, im newbie programmer, trying to be better.
+dizzy thinking about school 🥴
+
+The WhatsApp bot project isn't finished yet, so I don't know when it will be, because I'm still in school
+
+- [] DXTSTD-Bot Project
+- [] 
 
 <!--
 **DentaStudio/DentaStudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
