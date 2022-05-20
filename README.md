@@ -7,10 +7,10 @@ List Project
 - Scrapper Website => not finished
 - A.I => idk
 
-    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=DentaCH&show_icons=true&locale=en&bg_color=&text_color=ffffff&layout=compact", align=center></img><p>
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=DentaCH&show_icons=true&locale=en&bg_color=&text_color=ffffff&layout=compact", align=center, alt="arzxh", bg_color=#ffffff></img><p>
 </body>
 
-
+ 
 <!--
 **DentaStudio/DentaStudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
