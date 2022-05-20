@@ -1,13 +1,15 @@
 <body>
     <a href=https://github.com/DentaCH><img src="./github.jpg", align=center></img></a>
-</body>
-
-<p> Hello im Denta, 14yo, im newbie programmer. <p>
+    <p align=left> Hello im Denta, 14yo, im newbie programmer.<p>
 
 List Project
 - DXTSTD-Bot Project => not finished
 - Scrapper Website => not finished
 - A.I => idk
+
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=DentaCH&show_icons=true&locale=en&bg_color=&text_color=ffffff&layout=compact", align=center></img><p>
+</body>
+
 
 <!--
 **DentaStudio/DentaStudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
