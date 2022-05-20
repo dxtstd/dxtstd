@@ -1,4 +1,3 @@
-<h1 align=center> DentaCH </h1>
 <a href=https://github.com/DentaCH><img src="./github.jpg", align=center></img></a>
 
 Hello im Denta, 14yo, im newbie programmer, trying to be better.
@@ -10,7 +9,6 @@ List Project
 - DXTSTD-Bot Project => not finished
 - Scrapper Website => not finished
 
-<a href=https://github.com/DentaCH><img src=./github.jpg, align=center></img></a>
 <p align=center></p>
 <!--
 **DentaStudio/DentaStudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
