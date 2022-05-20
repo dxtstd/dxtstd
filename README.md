@@ -1,14 +1,12 @@
 <body>
     <a href=https://github.com/DentaCH><img src="./github.jpg", align=center></img></a>
 </body>
-Hello im Denta, 14yo, im newbie programmer, trying to be better.
-dizzy thinking about school 🥴
-
-The WhatsApp bot project isn't finished yet, so I don't know when it will be, because I'm still in school
+Hello im Denta, 14yo, im newbie programmer.
 
 List Project
 - DXTSTD-Bot Project => not finished
 - Scrapper Website => not finished
+- A.I => idk
 
 <!--
 **DentaStudio/DentaStudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
