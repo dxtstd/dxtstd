@@ -1,7 +1,8 @@
 <body>
     <a href=https://github.com/DentaCH><img src="./github.jpg", align=center></img></a>
 </body>
-Hello im Denta, 14yo, im newbie programmer.
+
+<p> Hello im Denta, 14yo, im newbie programmer. <p>
 
 List Project
 - DXTSTD-Bot Project => not finished
