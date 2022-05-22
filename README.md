@@ -6,6 +6,8 @@ List Project
 - DXTSTD-Bot Project => not finished
 - Scrapper Website => not finished
 - A.I => idk
+     
+![Github stats](https://github-readme-stats.vercel.app/api?username=DentaCH&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
     <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=DentaCH&show_icons=true&locale=en&bg_color=&text_color=000000&layout=compact", align=center, alt="arzxh", bg_color=#ffffff></img><p>
 </body>
