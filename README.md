@@ -8,8 +8,9 @@ List Project
 - A.I => idk
      
 ![Github stats](https://github-readme-stats.vercel.app/api?username=DentaCH&show_icons=true&title_color=000000&icon_color=bb2acf&text_color=000000&bg_color=ffffff)
-![Top Lang](https://github-readme-stats.vercel.app/api/top-langs?username=DentaCH&show_icons=true&locale=en&bg_color=ffffff&text_color=000000&layout=compact)
 [![DentaCH github activity graph](https://activity-graph.herokuapp.com/graph?username=DentaCH&bg_color=ffffff&color=000000&line=00c2ff)](https://github.com/DentaCH)
+![Top Lang](https://github-readme-stats.vercel.app/api/top-langs?username=DentaCH&show_icons=true&locale=en&bg_color=ffffff&text_color=000000&layout=compact)
+
 </body>
 
  
