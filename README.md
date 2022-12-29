@@ -1,15 +1,15 @@
 <body>
     <a href=https://github.com/dxtstd><img src="./github.jpg", align=center></img></a>
-    <p align=left> Hello im Denta, 14yo, im newbie programmer.<p>
+    <p align=left> Hello im Denta, 15yo, im newbie programmer.<p>
 
 List Project
 - DXTSTD-Bot Project => not finished
 - Scrapper Website => not finished
 - A.I => idk
      
-[![Github stats](https://github-readme-stats.vercel.app/api?username=dxtstd&show_icons=true&title_color=000000&icon_color=bb2acf&text_color=000000&bg_color=ffffff)](https://github.com/dxtstd)
+[![DentaCH Github stats](https://github-readme-stats.vercel.app/api?username=dxtstd&show_icons=true&title_color=000000&icon_color=bb2acf&text_color=000000&bg_color=ffffff)](https://github.com/dxtstd)
 [![DentaCH github activity graph](https://activity-graph.herokuapp.com/graph?username=dxtstd&bg_color=ffffff&color=000000&line=00c2ff)](https://github.com/dxtstd)
-[![Top Lang](https://github-readme-stats.vercel.app/api/top-langs?username=dxtstd&show_icons=true&locale=en&bg_color=ffffff&text_color=000000&layout=compact)](https://github.com/dxtstd)
+[![DentaCH Top Lang](https://github-readme-stats.vercel.app/api/top-langs?username=dxtstd&show_icons=true&locale=en&bg_color=ffffff&text_color=000000&layout=compact)](https://github.com/dxtstd)
 
 </body>
 
