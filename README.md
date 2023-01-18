@@ -7,11 +7,9 @@ List Project
 - Scrapper Website => not finished
 - A.I => idk
 
-[![DentaCH Github Stats](https://github-readme-stats.vercel.app/api?username=dxtstd&show_icons=true&title_color=76F1EE&icon_color=76F1FE&text_color=000000&bg_color=FFFFFF)](https://github.com/dxtstd)
-<!-- [![DentaCH Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=dxtstd&bg_color=ffffff&color=000000&line=00c2ff)](https://github.com/dxtstd) -->
-[![DentaCH Github Streak](http://github-readme-streak-stats.herokuapp.com?user=dxtstd&theme=white&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=FFFFFF&currStreakLabel=FFFFFF)](https://github.com/dxtstd)
-[![DentaCH Gituub Top Lang](https://github-readme-stats.vercel.app/api/top-langs?username=dxtstd&show_icons=true&locale=en&bg_color=ffffff&text_color=000001&layout=compact)](https://github.com/dxtstd)
-
+| [![DentaCH Github Stats](https://github-readme-stats.vercel.app/api?username=dxtstd&show_icons=true&title_color=76F1EE&icon_color=76F1FE&text_color=000000&bg_color=FFFFFF)](https://github.com/dxtstd) | [![DentaCH Github Streak](http://github-readme-streak-stats.herokuapp.com?user=dxtstd&theme=white&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=FFFFFF&currStreakLabel=FFFFFF)](https://github.com/dxtstd) |
+| --------------- --------------- |
+| [![DentaCH Gituub Top Lang](https://github-readme-stats.vercel.app/api/top-langs?username=dxtstd&show_icons=true&locale=en&bg_color=ffffff&text_color=000001&layout=compact)](https://github.com/dxtstd) |
 </body>
 
  
