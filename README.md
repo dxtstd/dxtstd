@@ -3,9 +3,11 @@
 <a href=https://github.com/dxtstd><img src="./github.jpg" align=center></img></a>
 <p align=left>Hello im Denta, 15yo, im newbie programmer.<p>
 
-:page_with_curl I'm currently learning
+:page_with_curl: I'm currently learning
 <!-- [![JavaScript](https://img.shields.io/badge/javascript-%23323300.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)] -->
-[![TypeScript](https://img.shields.io/badge/typescript-00AAFF?style=for-the-badge&logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/)
+[![TypeScript](https://img.shields.io/badge/typescript-%2300AAFF?style=for-the-badge&logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/)
+[React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 List Project
 - DXTSTD-Bot Project => not finished
