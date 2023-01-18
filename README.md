@@ -1,7 +1,7 @@
 <body>
 
-<a href=https://github.com/dxtstd><img src="./github.jpg", align=center></img></a>
-<p align=left> Hello im Denta, 15yo, im newbie programmer.<p>
+<a href=https://github.com/dxtstd><img src="./github.jpg" align=center></img></a>
+<p align=left>Hello im Denta, 15yo, im newbie programmer.<p>
 
 I'm currently learning
 <br><br>
