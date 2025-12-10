@@ -1,6 +1,6 @@
 <body>
 
-<a href=https://github.com/dxtstd><img src="./github.jpg" align=center></img></a>
+
 <p align=left>Hello I'm Denta, 18yo, I'm newbie programmer.<p>
 
 :page_with_curl: I'm currently learning
@@ -18,6 +18,8 @@ List Project
 
  
 <!--
+<a href=https://github.com/dxtstd><img src="./github.jpg" align=center></img></a>
+
 **dxtstd/dxtstd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
