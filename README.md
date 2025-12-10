@@ -1,7 +1,7 @@
 <body>
 
 <a href=https://github.com/dxtstd><img src="./github.jpg" align=center></img></a>
-<p align=left>Hello im Denta, 16yo, im newbie programmer.<p>
+<p align=left>Hello I'm Denta, 18yo, I'm newbie programmer.<p>
 
 :page_with_curl: I'm currently learning
 <!-- [![JavaScript](https://img.shields.io/badge/javascript-%23323300.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)] -->
@@ -10,22 +10,15 @@
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 
 List Project
-- DXTSTD-Bot Project => not finished
-- Scrapper Website => not finished
-- A.I => idk
+- Portofolio Website - WIP
+- dxtstd-bot project => WIP
+- A.I => soon
 
-|                                                                                       Stats                                                                                                              |                                                                                       Streaks                                                                                                             |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![DentaCH Github Stats](https://github-readme-stats.vercel.app/api?username=dxtstd&show_icons=true&title_color=76F1EE&icon_color=76F1FE&text_color=000000&bg_color=FFFFFF)](https://github.com/dxtstd) | [![DentaCH Github Streak](http://github-readme-streak-stats.herokuapp.com?user=dxtstd&theme=white&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=FFFFFF&currStreakLabel=FFFFFF)](https://github.com/dxtstd) |
-
-|                                                                                       Top Language                                                                                                       |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![DentaCH Gituub Top Lang](https://github-readme-stats.vercel.app/api/top-langs?username=dxtstd&show_icons=true&locale=en&bg_color=ffffff&text_color=000001&layout=compact)](https://github.com/dxtstd) |
 </body>
 
  
 <!--
-**DentaStudio/DentaStudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dxtstd/dxtstd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
