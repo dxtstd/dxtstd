@@ -72,5 +72,4 @@
   <br/>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=dxtstd&icon=1&color=" alt="Visitor Count" />
 </div>
