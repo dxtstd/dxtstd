@@ -11,8 +11,13 @@
 
 ## About Me
 
-* 💻 Exploring frontend web development, software engineering, and systems infrastructure.
-* ⚙️ Passionate about bridging clean user interfaces with robust, self-hosted backend and homelab environments.
+<ul style="list-style-type: none;">
+  <li><img src="https://api.iconify.design/mdi:school-outline.svg?color=white" width="16" /> <strong>Student & Developer:</strong> Exploring software engineering and modern web architectures, heavily utilizing React and TypeScript.</li>
+  <li><img src="https://api.iconify.design/mdi:server-network.svg?color=white" width="16" /> <strong>Systems & Network Engineering:</strong> Building self-hosted infrastructures, configuring server virtualization (ESXi, QEMU), optimizing MikroTik routing, and managing extensive homelab setups.</li>
+  <li><img src="https://api.iconify.design/mdi:memory.svg?color=white" width="16" /> <strong>Hardware Tinkering & OS:</strong> Hands-on experience with low-level system administration, from manual Linux kernel upgrades to custom hardware flashing and device unbricking.</li>
+  <li><img src="https://api.iconify.design/mdi:database-search-outline.svg?color=white" width="16" /> <strong>Data & Applications:</strong> Bridging complex data structures and statistical modeling into functional, interactive frontend components.</li>
+  <li><img src="https://api.iconify.design/mdi:gamepad-variant-outline.svg?color=white" width="16" /> <strong>Gaming & Automation:</strong> Managing dedicated game servers, writing scripts for automated media rendering pipelines (FFmpeg), and exploring digital content branding.</li>
+</ul>
 
 ---
 
@@ -28,12 +33,15 @@
 ### Systems, Cloud & Infrastructure
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.linux.org/)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![MikroTik](https://img.shields.io/badge/MikroTik-%230993EC?style=flat-square&logo=mikrotik&logoColor=white)](https://mikrotik.com/)
 [![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)](https://www.nginx.com/)
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)](https://www.cloudflare.com/)
 [![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 
 ### Tools & Media
 [![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white)](https://www.adobe.com/)
+[![Clip Studio Paint](https://img.shields.io/badge/Clip%20Studio%20Paint-%232C62D2.svg?style=flat-square&logo=clipstudiopaint&logoColor=white)](https://www.clipstudio.net/)
+[![Krita](https://img.shields.io/badge/Krita-%232EB67D.svg?style=flat-square&logo=krita&logoColor=white)](https://krita.org/)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white)](https://store.steampowered.com/)
 
 ---
