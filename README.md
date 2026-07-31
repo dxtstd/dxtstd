@@ -50,7 +50,7 @@
 [![Krita](https://img.shields.io/badge/Krita-%232EB67D.svg?style=flat-square&logo=krita&logoColor=white)](https://krita.org/)
 
 ### Escaping to Headspace (Favorite Games)
-[![OMORI](https://img.shields.io/badge/OMORI-FFFFFF?style=flat-square&logo=s&logoColor=white)](https://www.omori-game.com/)
+[![OMORI](https://img.shields.io/badge/OMORI-000000?style=flat-square&logo=s&logoColor=white)](https://www.omori-game.com/)
 [![osu!](https://img.shields.io/badge/osu!-FF66AA?style=flat-square&logo=osu!&logoColor=white)](https://osu.ppy.sh/)
 [![PUBG](https://img.shields.io/badge/PUBG-F2A900?style=flat-square&logo=pubg&logoColor=white)](https://na.battlegrounds.pubg.com/)
 [![War Thunder](https://img.shields.io/badge/War_Thunder-ED1C24?style=flat-square&logo=steam&logoColor=white)](https://warthunder.com/)
