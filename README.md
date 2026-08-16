@@ -6,7 +6,7 @@
   <p><em><i>You have been coding here for as long as you can remember.</i></em></p>
   
   <a href="https://dxtstd.my.id" target="_blank">
-    <img src="https://lanyard.kyrie25.dev/api/705177705754394625?showDisplayName=false&forceGradient=false&gradient=F0F0F0-0F0F0F&waveColor=0F0F0F&bg=000000&imgBorderRadius=10px&showBanner=animated&animatedDecoration=true" alt="Lanyard Status" />
+    <img src="https://lanyard.cnrad.dev/api/705177705754394625" alt="Lanyard Status" />
   </a>
 </div>
 
