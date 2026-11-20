@@ -14,13 +14,45 @@
 
 ## About Me
 
-<ul style="list-style-type: none; padding-left: 0;">
-  <li><img src="https://api.iconify.design/mdi:school-outline.svg?color=white" width="16" /> <strong>Student & Developer:</strong> Exploring software engineering and modern web architectures, heavily utilizing React and TypeScript.</li>
-  <li><img src="https://api.iconify.design/mdi:router-network.svg?color=white" width="16" /> <strong>Network Infrastructure & Systems:</strong> Hands-on experience with physical networking (crimping LAN cables, configuring routers), optimizing MikroTik environments, building self-hosted infrastructures, configuring server virtualization (ESXi, QEMU), and managing extensive homelab setups.</li>
-  <li><img src="https://api.iconify.design/mdi:database-search-outline.svg?color=white" width="16" /> <strong>Data & Applications:</strong> Bridging complex data structures and statistical modeling into functional, interactive frontend components.</li>
-  <li><img src="https://api.iconify.design/mdi:gamepad-variant-outline.svg?color=white" width="16" /> <strong>Gaming & Automation:</strong> Managing dedicated game servers, writing scripts for automated media rendering pipelines (FFmpeg), and exploring digital content branding.</li>
-  <li><img src="https://api.iconify.design/mdi:book-heart-outline.svg?color=white" width="16" /> <strong>Beyond the Screen:</strong> Passionate about music to balance the technical side of coding, actively studying English for professional growth, and a proud supporter of my girlfriend's creative writing and novel projects.</li>
-</ul>
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/%20-000000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI+PHBhdGggZD0iTTEyIDMgMSA5bDExIDYgOS00LjkxVjE3aDJWOU01IDEzLjE4djRMMTIgMjFsNy0zLjgydi00TDEyIDE3bC03LTMuODJaIi8+PC9zdmc+" />
+    <img src="https://img.shields.io/badge/%20-ffffff?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwMCI+PHBhdGggZD0iTTEyIDMgMSA5bDExIDYgOS00LjkxVjE3aDJWOU01IDEzLjE4djRMMTIgMjFsNy0zLjgydi00TDEyIDE3bC03LTMuODJaIi8+PC9zdmc+" height="16" alt="Education" />
+  </picture>
+  <strong>Student & Developer:</strong> Exploring software engineering and modern web architectures, heavily utilizing React and TypeScript.
+</p>
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/%20-000000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI+PHBhdGggZD0iTTQgNGgxNnY2SDRWNG0yIDJ2MmgyVjZINk00IDE0aDE2djZINHYtNm0yIDJ2Mmgydi0ySDZaIi8+PC9zdmc+" />
+    <img src="https://img.shields.io/badge/%20-ffffff?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwMCI+PHBhdGggZD0iTTQgNGgxNnY2SDRWNG0yIDJ2MmgyVjZINk00IDE0aDE2djZINHYtNm0yIDJ2Mmgydi0ySDZaIi8+PC9zdmc+" height="16" alt="Network" />
+  </picture>
+  <strong>Network Infrastructure & Systems:</strong> Hands-on experience with physical networking (crimping LAN cables, configuring routers), optimizing MikroTik environments, building self-hosted infrastructures, configuring server virtualization (ESXi, QEMU), and managing extensive homelab setups.
+</p>
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/%20-000000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI+PHBhdGggZD0iTTEyIDNDNy41OCAzIDQgNC43OSA0IDdzMy41OCA4IDQgOCA4LTEuNzkgOC00LTMuNTgtNC04LTRNNCA5djNjMCAyLjIxIDMuNTggNCA4IDRzOC0xLjc5IDgtNFY5YzAgMi4yMS0zLjU4IDQtOCA0cy04LTEuNzktOC00bTAgNXYzYzAgMi4yMSAzLjU4IDQgOCA0czgtMS43OSA4LTR2LTNjMCAyLjIxLTMuNTggNC04IDRzLTgtMS43OS04LTRaIi8+PC9zdmc+" />
+    <img src="https://img.shields.io/badge/%20-ffffff?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwMCI+PHBhdGggZD0iTTEyIDNDNy41OCAzIDQgNC43OSA0IDdzMy41OCA4IDQgOCA4LTEuNzkgOC00LTMuNTgtNC04LTRNNCA5djNjMCAyLjIxIDMuNTggNCA4IDRzOC0xLjc5IDgtNFY5YzAgMi4yMS0zLjU4IDQtOCA0cy04LTEuNzktOC00bTAgNXYzYzAgMi4yMSAzLjU4IDQgOCA0czgtMS43OSA4LTR2LTNjMCAyLjIxLTMuNTggNC04IDRzLTgtMS43OS04LTRaIi8+PC9zdmc+" height="16" alt="Data" />
+  </picture>
+  <strong>Data & Applications:</strong> Bridging complex data structures and statistical modeling into functional, interactive frontend components.
+</p>
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/%20-000000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI+PHBhdGggZD0iTTIxIDZIM2MtMS4xIDAtMiAuOS0yIDJ2OGMwIDEuMS45IDIgMiAyaDE4YzEuMSAwIDItLjkgMi0yVjhjMC0xLjEtLjktMi0yLTJtLTEwIDdIOHYzSDZ2LTNIM3YtMmgzVjhoMnYzaDN2Mm00LjUgMmExLjUgMS41IDAgMCAxIDAtMyAxLjUgMS41IDAgMCAxIDAgM200LTNhMS41IDEuNSAwIDAgMSAwLTMgMS41IDEuNSAwIDAgMSAwIDNaIi8+PC9zdmc+" />
+    <img src="https://img.shields.io/badge/%20-ffffff?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwMCI+PHBhdGggZD0iTTIxIDZIM2MtMS4xIDAtMiAuOS0yIDJ2OGMwIDEuMS45IDIgMiAyaDE4YzEuMSAwIDItLjkgMi0yVjhjMC0xLjEtLjktMi0yLTJtLTEwIDdIOHYzSDZ2LTNIM3YtMmgzVjhoMnYzaDN2Mm00LjUgMmExLjUgMS41IDAgMCAxIDAtMyAxLjUgMS41IDAgMCAxIDAgM200LTNhMS41IDEuNSAwIDAgMSAwLTMgMS41IDEuNSAwIDAgMSAwIDNaIi8+PC9zdmc+" height="16" alt="Gaming" />
+  </picture>
+  <strong>Gaming & Automation:</strong> Managing dedicated game servers, writing scripts for automated media rendering pipelines (FFmpeg), and exploring digital content branding.
+</p>
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/%20-000000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI+PHBhdGggZD0iTTEyIDIxLjM1bC0xLjQ1LTEuMzJDNS40IDE1LjM2IDIgMTIuMjggMiA4LjUgMiA1LjQyIDQuNDIgMyA3LjUgM2MxLjc0IDAgMy40MS44MSA0LjUgMi4wOUMxMy4wOSAzLjgxIDE0Ljc2IDMgMTYuNSAzIDE5LjU4IDMgMjIgNS40MiAyMiA4LjVjMCAzLjc4LTMuNCA2Ljg2LTguNTUgMTEuNTRMMTIgMjEuMzVaIi8+PC9zdmc+" />
+    <img src="https://img.shields.io/badge/%20-ffffff?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwMCI+PHBhdGggZD0iTTEyIDIxLjM1bC0xLjQ1LTEuMzJDNS40IDE1LjM2IDIgMTIuMjggMiA4LjUgMiA1LjQyIDQuNDIgMyA3LjUgM2MxLjc0IDAgMy40MS44MSA0LjUgMi4wOUMxMy4wOSAzLjgxIDE0Ljc2IDMgMTYuNSAzIDE5LjU4IDMgMjIgNS40MiAyMiA4LjVjMCAzLjc4LTMuNCA2Ljg2LTguNTUgMTEuNTRMMTIgMjEuMzVaIi8+PC9zdmc+" height="16" alt="Beyond the Screen" />
+  </picture>
+  <strong>Beyond the Screen:</strong> Passionate about music to balance the technical side of coding, actively studying English for professional growth, and a proud supporter of my girlfriend's creative writing and novel projects.
+</p>
 
 ---
 
@@ -50,7 +82,7 @@
 [![Krita](https://img.shields.io/badge/Krita-%232EB67D.svg?style=flat-square&logo=krita&logoColor=white)](https://krita.org/)
 
 ### Escaping to Headspace (Favorite Games)
-[![OMORI](https://img.shields.io/badge/OMORI-000000?style=flat-square&logo=s&logoColor=white)](https://www.omori-game.com/)
+[![OMORI](https://img.shields.io/badge/OMORI-000000?style=flat-square&logo=steam&logoColor=white)](https://www.omori-game.com/)
 [![osu!](https://img.shields.io/badge/osu!-FF66AA?style=flat-square&logo=osu!&logoColor=white)](https://osu.ppy.sh/)
 [![PUBG](https://img.shields.io/badge/PUBG-F2A900?style=flat-square&logo=pubg&logoColor=white)](https://na.battlegrounds.pubg.com/)
 [![War Thunder](https://img.shields.io/badge/War_Thunder-ED1C24?style=flat-square&logo=steam&logoColor=white)](https://warthunder.com/)
@@ -64,7 +96,6 @@
     <tr>
       <td align="center">
         <a href="https://dxtstd.my.id">
-          <!-- Modifying the stats API slightly to fit a purely black and white / OMORI dark theme -->
           <img src="https://github-readme-stats.shion.dev/api?username=dxtstd&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=333333&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
         </a>
       </td>
