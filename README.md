@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://omori.wiki/images/c/ca/Mewo_sprite.gif" width="100" alt="Mewo" />
+  <img src="./mewo.gif" width="100" alt="Mewo" />
   
   <h1>Welcome to Denta's Space.</h1>
-  <h3>Student & Developer</h3>
+  <h3>19yo | Student & Developer</h3>
   <p><em><i>You have been coding here for as long as you can remember.</i></em></p>
   
   <a href="https://dxtstd.my.id" target="_blank">
@@ -14,11 +14,45 @@
 
 ## About Me
 
-* ▸ **Student & Developer:** Exploring software engineering and modern web architectures, heavily utilizing React and TypeScript.
-* ▸ **Network Infrastructure & Systems:** Hands-on experience with physical networking (crimping LAN cables, configuring routers), optimizing MikroTik environments, building self-hosted infrastructures, configuring server virtualization (ESXi, QEMU), and managing homelab setups.
-* ▸ **Data & Applications:** Bridging complex data structures and statistical modeling into functional, interactive frontend components.
-* ▸ **Gaming & Automation:** Managing dedicated game servers, writing scripts for automated media rendering pipelines (FFmpeg), and exploring digital content branding.
-* ▸ **Beyond the Screen:** Passionate about music to balance the technical side of coding, practicing English, and supporting creative writing.
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./icons/school-dark.svg" />
+    <img src="./icons/school-light.svg" width="16" align="absmiddle" alt="Education" />
+  </picture>
+  <strong>Student & Developer:</strong> Exploring software engineering and modern web architectures, heavily utilizing React and TypeScript.
+</p>
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./icons/network-dark.svg" />
+    <img src="./icons/network-light.svg" width="16" align="absmiddle" alt="Network" />
+  </picture>
+  <strong>Network Infrastructure & Systems:</strong> Hands-on experience with physical networking (crimping LAN cables, configuring routers), optimizing MikroTik environments, building self-hosted infrastructures, configuring server virtualization (ESXi, QEMU), and managing extensive homelab setups.
+</p>
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./icons/data-dark.svg" />
+    <img src="./icons/data-light.svg" width="16" align="absmiddle" alt="Data" />
+  </picture>
+  <strong>Data & Applications:</strong> Bridging complex data structures and statistical modeling into functional, interactive frontend components.
+</p>
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./icons/game-dark.svg" />
+    <img src="./icons/game-light.svg" width="16" align="absmiddle" alt="Gaming" />
+  </picture>
+  <strong>Gaming & Automation:</strong> Managing dedicated game servers, writing scripts for automated media rendering pipelines (FFmpeg), and exploring digital content branding.
+</p>
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./icons/heart-dark.svg" />
+    <img src="./icons/heart-light.svg" width="16" align="absmiddle" alt="Beyond the Screen" />
+  </picture>
+  <strong>Beyond the Screen:</strong> Passionate about music to balance the technical side of coding, actively studying English for professional growth, and a proud supporter of my girlfriend's creative writing and novel projects.
+</p>
 
 ---
 
@@ -48,7 +82,7 @@
 [![Krita](https://img.shields.io/badge/Krita-%232EB67D.svg?style=flat-square&logo=krita&logoColor=white)](https://krita.org/)
 
 ### Escaping to Headspace (Favorite Games)
-[![OMORI](https://img.shields.io/badge/OMORI-000000?style=flat-square&logo=s&logoColor=white)](https://www.omori-game.com/)
+[![OMORI](https://img.shields.io/badge/OMORI-000000?style=flat-square&logo=steam&logoColor=white)](https://www.omori-game.com/)
 [![osu!](https://img.shields.io/badge/osu!-FF66AA?style=flat-square&logo=osu!&logoColor=white)](https://osu.ppy.sh/)
 [![PUBG](https://img.shields.io/badge/PUBG-F2A900?style=flat-square&logo=pubg&logoColor=white)](https://na.battlegrounds.pubg.com/)
 [![War Thunder](https://img.shields.io/badge/War_Thunder-ED1C24?style=flat-square&logo=steam&logoColor=white)](https://warthunder.com/)
